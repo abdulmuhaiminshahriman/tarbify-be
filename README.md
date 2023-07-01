@@ -13,7 +13,7 @@
 10. A user should have the status of active or inactive.
 
 ## Table Structure
-1. User 
+1. Member 
    - id (int) {required}
    - name(string) {required}
    - ic(integer) {required}
